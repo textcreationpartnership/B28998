@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One charge prosecuted sixteen times before sundry judicatures, within ten years of our late distempers, against Michael Roberts D.D. Oxon. long since senior fellow of Jesus Colledge, and late principal, ejected by O. Cromwell for loyalty.</title>
+            <author>Roberts, Michael, d. 1679.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28998</idno><idno type="EEBO-CITATION">99886428</idno>
+  <idno type="VID">187207</idno>
+  <idno type="EEBO-PROQUEST">2264214830</idno>
+  
+            <idno type="STC">Wing R1602A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1852.c.28[2]</idno>
+            <idno type="STC">ESTC R225998</idno>
+            <idno type="STC">ESTC R226000</idno>
+            <idno type="STC">ESTC R225998</idno>
+            <idno type="STC">ESTC R226000</idno>
+            <idno type="PROQUEST">ocm99886428</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886428e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187207)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:2[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One charge prosecuted sixteen times before sundry judicatures, within ten years of our late distempers, against Michael Roberts D.D. Oxon. long since senior fellow of Jesus Colledge, and late principal, ejected by O. Cromwell for loyalty.</title>
+                  <author>Roberts, Michael, d. 1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Roberts, Michael, d. 1679 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187207:1"/>
+            <head>One Charge prosecuted sixteen times before sundry Judicatures, within ten years of our late distempers, against <hi>MICHAEL ROBERTS</hi> D. D. <hi>Oxon.</hi> long since Senior Fellow of <hi>Jesus Colledge,</hi> and late Principal, ejected by <hi>O. CROMWELL</hi> for Loyalty</head>
+            <p>Charged,
+<list>
+                  <item>
+                     <note place="margin">1. <hi>January</hi> 1648.</note>BY <hi>O. Cromwells</hi> Chaplain, <hi>Jenkin Lloyd,</hi> before the Visi<g ref="char:EOLhyphen"/>tors of <hi>Oxford,</hi> sitting in <hi>Magdalen Colledge.</hi> Old Dr. <hi>John Wilkinson</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">2. <hi>May</hi> 1649.</note>Before the Committee for advance of Money, and dis<g ref="char:EOLhyphen"/>covery of Delinquents, sitting in the Painted-Chamber, <hi>Westminster.</hi> L. <hi>Howard</hi> of <hi>Escrick</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">3. <hi>Summer</hi> 1650.</note>Before the Visitors of <hi>Oxford,</hi> sitting in <hi>Merton Colledge.</hi> Sir <hi>Nath. Brent</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">4. <hi>Autumn</hi> 1651.</note>Before a Committee for the University of <hi>Oxford,</hi> sitting in the Queens Court <hi>VVestminster. Fr. Rous</hi> Chair-man, sometimes <hi>Ja. Chaloner.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">5. <hi>Winter</hi> 1651.</note>Before a Committee for propagating the Gospel, at <hi>Wrexam. Dan. Lloyd</hi> Chair-man, sometimes <hi>Hugh Courtney.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">6. <hi>Summer</hi> 1652.</note>Before the Committee for 9000l. assessed on <hi>Anglesey,</hi> for declaring for the King, in Summer 1648. <hi>Tho. Madrin</hi> Chair<g ref="char:EOLhyphen"/>man, at <hi>Caernarvon.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">7. <hi>Summer</hi> 1653.</note>Before the Committee for Compounding, in <hi>Haberdashers<g ref="char:EOLhyphen"/>hall, London. Edw. Cary</hi> Chair-man, sometimes Mr. <hi>Moyer.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">8. <hi>Summer</hi> 1653.</note>Before Dr. <hi>Owen</hi> and his Associates, in the Deans lodging in <hi>Christ-church</hi> in <hi>Oxford.</hi> Dr. <hi>Owen</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">9. <hi>Spring</hi> 1653. 10. <hi>Summer</hi> 1654.</note>Before the second Visitors of <hi>Oxford,</hi> sitting in <hi>Christ-Church.</hi> Dr. <hi>Owen</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">11. <hi>Winter</hi> 1654.</note>Before the Right Honorable the E. of <hi>Pembroke,</hi> Visitor of <hi>Jesus Colledge,</hi> then residing at <hi>Wilton.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">12. <hi>Summer</hi> 1655.</note>Before <hi>O. Cromwell</hi> at <hi>White-hall,</hi> who referred it to a Com<g ref="char:EOLhyphen"/>mittee of his Council, L. <hi>Mulgrave,</hi> Sir <hi>Gilbert Pickering,</hi> Mr. <hi>Strickland, Fr. Rous,</hi> and <hi>Phil. Jones,</hi> then Comptroller at <hi>White hall.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">13. <hi>Spring</hi> 1655. <hi>Summer</hi> 1656.</note>Before the Visitors of <hi>Oxford</hi> again, sitting in <hi>Magdalen Colledge.</hi> Dr. <hi>Goodwin</hi> Chair-man.</item>
+                  <item>
+                     <note place="margin">14. <hi>Winter</hi> 1656.</note>Before the said <hi>Cromwell</hi> again, who then referred the same matter to some of his Major Generals, and their deputies.</item>
+                  <item>
+                     <note place="margin">15. <hi>Spring</hi> 1656.</note>Before Major <hi>Packer</hi> the Anabaptist, sitting in the room next to the Guard-chamber in <hi>White-hall.</hi>
+                  </item>
+                  <item>
+                     <note place="margin">16. <hi>Autumn</hi> 1657.</note>Before <hi>O. Cromwell</hi> the third time, who upon sight of a Copy of three mens depositions, (taken before Major Ge<g ref="char:EOLhyphen"/>neral <hi>Berrie</hi>'s Committee) that they had seen the defendant in Armes with the Kings Party; forthwith signed the warrant for his Ejectment from the Head-ship of the said Colledge.</item>
+               </list>
+            </p>
+            <p>The Original warrant is extant with the said Depositions taken before <hi>R. Griffith, Tho. Lloyd, Tho. Nicolls, Jo. Carter, A. Ellis, Rog. Sontley.</hi>
+            </p>
+            <closer>
+               <signed>MICHAEL ROBERTS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
